@@ -1,0 +1,1 @@
+# NfkingPlugin-AutoFillInventorySlot
