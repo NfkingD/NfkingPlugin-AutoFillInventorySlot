@@ -1,6 +1,6 @@
-package com.nfkingd.nfkingplugin.autofillinventoryslot.listeners;
+package com.nfkingd.nfkingplugin.auto_fill_inventory_slot.listeners;
 
-import com.nfkingd.nfkingplugin.autofillinventoryslot.Application;
+import com.nfkingd.nfkingplugin.auto_fill_inventory_slot.Application;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import org.bukkit.entity.*;

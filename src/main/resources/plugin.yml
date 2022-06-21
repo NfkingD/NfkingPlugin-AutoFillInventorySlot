@@ -1,4 +1,5 @@
-main: com.nfkingd.nfkingplugin.autofillinventoryslot.Application
+main: com.nfkingd.nfkingplugin.auto_fill_inventory_slot.Application
 name: AutoFillInventorySlot
-version: 1
+version: 1.0.0
 api-version: 1.19
+author: NfkingD
